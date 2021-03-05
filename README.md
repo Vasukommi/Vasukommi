@@ -1,6 +1,6 @@
 - 👋 Hello world🌎, I’m @Vasukommi😺
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Data analysis Machine Learning
+- 🌱 I’m currently learning Data analysis and Machine Learning
 - 💞️ I’m looking good collab projects
 - 📫 How to reach me gmail: (itsvasukommi@gmail.com)
 
