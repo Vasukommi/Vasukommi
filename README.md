@@ -1,7 +1,7 @@
 - 👋 Hello world🌎, I’m @Vasukommi😺
-- 👀 I’m interested HTML, CSS, JS and Python, SQL
-- 🌱 I’m currently learning python
-- 💞️ I’m looking good collab projects
+- 👀 I’m interested Full-Stack web development 
+- 🌱 I’m currently pursuing Master of computer applications (MCA)
+- 💞️ I’m looking for good collab projects
 - 📫 How to reach me gmail: (itsvasukommi@gmail.com)
 
 <!---
