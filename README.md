@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasukommi&label=Profile%20views&color=0e75b6&style=flat" alt="vasukommi" /> </p>
 
-- 🔭 I’m currently working on [Tasty Kitchens](https://tastykitchen7.ccbp.tech/)
+- 🔭 I’m currently working on [Reactjs](https://tastykitchen7.ccbp.tech/)
 
 - 🌱 I’m currently pursuing Master of computer applications (MCA)
 
