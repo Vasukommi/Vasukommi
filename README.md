@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Vue, Reactjs, Node, Mongo, SQL](https://tastykitchen7.ccbp.tech/)
 
-- 🌱 I’m currently pursuing Master of computer applications (MCA)
+- 🌱 Master of computer applications (MCA)
 
 - 👯 I’m looking for collab **Projects**
 
