@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vasukommi.ccbp.tech/](https://vasukommi.ccbp.tech/)
 
-- 💬 Ask me about **react JavaScript python HTML CSS**
+- 💬 Ask me about **ReactJS VUEJS NodeJS MongoDB SQL JavaScript python Go HTML CSS**
 
 - 📫 How to reach me **itsvasukommi@gmail.com**
 
